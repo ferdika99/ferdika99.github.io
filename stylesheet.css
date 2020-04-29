@@ -184,6 +184,7 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  background: linear-gradient(to top left, #ff33cc 0%, #00ffff 100%);
 }
 
 .bulat{
